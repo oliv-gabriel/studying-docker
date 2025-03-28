@@ -351,7 +351,7 @@ CMD ["python3", "app.py"]
 - Esse comando **será executado automaticamente** quando o container for iniciado.
 - Ele roda a aplicação Python (`app.py`).
 
-## CONSTROIR IMAGE
+## CONSTRUIR IMAGE
 
 ```bash
 docker build -t minha-app-python:v1 .
